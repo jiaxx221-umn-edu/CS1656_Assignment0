@@ -1,16 +1,16 @@
 # Repository: template.project0
 # Assignment #0: Hello World
 
-> Course: **[CS 1656 - Introduction to Data Science](http://cs1656.org)** (CS 2056) -- Fall 2020  
-> Instructors: [Alexandros Labrinidis](http://labrinidis.cs.pitt.edu)  
+> Course: **[CS 1656 - Introduction to Data Science](http://cs1656.org)** (CS 2056) -- Spring 2021
+> Instructors: Xiaowei Jia  
 > Teaching Assistant: Evangelos Karageorgos
 >
 > Assignment: #0. Hello World 
-> Released: September 3, 2020  
-> **Due: September 6th, 2020**
+> Released: Jan 28, 2021  
+> **Due: Feb 1, 2021**
 
 ### Description
-This is the **test assignment** for the CS 1656 -- Introduction to Data Science (CS 2056) class, for the Fall 2020 semester.
+This is the **test assignment** for the CS 1656 -- Introduction to Data Science (CS 2056) class, for the Spring 2021 semester.
 
 ### Goal
 The goal of this assignment is to familiarize you with the project submission process.
@@ -28,11 +28,11 @@ To submit your assignment:
 * follow the instructions to submit your assignment and have it automatically graded.
 
 ### What to submit
-For this test assignment you only need to submit `task.py` to "Assignment #0" and see if you get all 100 points. In case of an error or wrong result, you can modify the file and resubmit it as many times as you want until the deadline of **Sunday, September 6, 11:59 pm**.
+For this test assignment you only need to submit `task.py` to "Assignment #0" and see if you get all 100 points. In case of an error or wrong result, you can modify the file and resubmit it as many times as you want until the deadline of **Monday, Feb 1, 11:59 pm**.
 
 ### Late submissions
 For full points, we will consider the version submitted to Gradescope 
-* the day of the deadline **Sunday, September 6, 11:59 pm**  
+* the day of the deadline **Monday, Feb 1, 11:59 pm**  
 * 24 hours later (for submissions that are one day late / -5 points), and  
 * 48 hours after the first deadline (for submissions that are two days late / -15 points).
 
